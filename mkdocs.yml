@@ -1,0 +1,36 @@
+site_name: Lập trình hướng đối tượng
+site_description: Object Oriented Programming
+site_author: Hung Nguyen
+
+repo_url: https://github.com/nd-hung/oop
+edit_uri: tree/main/docs
+
+nav:
+    - Các chủ đề:
+      - Tổng quan: topics\overview\README.md
+      - Nền tảng .NET và ngôn ngữ C#: topics\dotnet-and-csharp\README.md
+      - Lớp và đối tượng: topics\classes-and-objects\README.md
+      - Thừa kế: topics\inheritance\README.md
+      - Đa hình: topics\polymorphism\README.md
+      - Xử lý file: topics\filehandling\README.md
+      - Bài thực hành: labs\README.md
+    - Giảng viên: author\about.md 
+
+theme:
+    name: mkdocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
+    features:
+        - content.action.view
+
+extra_css:
+  - css/extra.css
+
+markdown_extensions:
+    - toc:
+        permalink: true
+    - attr_list
+    - def_list
+    - tables
