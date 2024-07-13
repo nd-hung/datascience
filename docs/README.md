@@ -1,9 +1,9 @@
-# Lập trình hướng đối tượng
+# Nhập môn Khoa học dữ liệu
 
-Object Oriented Programming
+Introduction to Data Science
 
-Tóm tắt lý thuyết và các bài thực hành của học phần Lập trình hướng đối tượng.
-Công cụ lập trình sử dụng để minh họa là .NET và C#.
+Ngành Khoa học dữ liệu thực hiện xử lý, phân tích, khai phá dữ liệu để chắt lọc thông tin hữu ích hỗ trợ cho việc ra quyết định và lập kế hoạch của tổ chức, doanh nghiệp.
+
 
 <div class="text-center">
     <a href="topics/" class="btn btn-primary" role="button">Tóm tắt lý thuyết</a>
@@ -12,21 +12,23 @@ Công cụ lập trình sử dụng để minh họa là .NET và C#.
 </div><br>
 
 ## Các chủ đề chính
-- #### [Tổng quan](topics/overview)
-- #### [Nền tảng .NET và ngôn ngữ C#](topics/dotnet-and-csharp)
-- #### [Lớp và đối tượng](topics/classes-and-objects)
-- #### [Thừa kế](topics/inheritance)
-- #### [Đa hình](topics/polymorphism)
+- #### [Tổng quan về Khoa học dữ liệu](topics/overview)
+- #### [Lập trình xử lý dữ liệu với Python](topics/PythonForDataScience)
+- #### [Thu thập và chuẩn bị dữ liệu](topics/DataCollectionAnPreparation)
+- #### [Phân tích khám phá dữ liệu](topics/DataExploratoryAnalysis)
+- #### [Trực quan hóa dữ liệu](topics/DataVisualzation)
+- #### [Các mô hình phân tích dữ liệu cơ bản](topics/#)
+- #### [Ứng dụng học máy trong Khoa học dữ liệu](topics/#)
+- #### [Bài thực hành](topics/#)
 
 ## Tài liệu tham khảo
 ### Sách, giáo trình
 
 <ol>
-    <li>Lập trình hướng đối tượng - Trần Đan Thư, Đinh Bá Tiến, Nguyễn Tấn Trần Minh Khang - NXB Khoa học kỹ thuật, 2010</li>
-    <li>C# Programming Yellow Book - Rob Miles, 2016</li>
-    <li>Beginning C# Object-Oriented Programming - Dan Clark, 2015</li>
-    <li>Lập trình hướng đối tượng với C++ - Lê Đăng Hưng, Tạ Tuấn Anh, Nguyễn Hữu Đức, Nguyễn Thanh Thủy - NXB Khoa học kỹ thuật, 2005</li>
-    <li>C++ How to Program, 10th edition - Paul Dietel - Pearson, 2017</li>
+    <li>Introduction to Machine Learning with Python - A Guide for Data Scientists; Andreas C. Müller, Sarah Guido; O'Reilly Media; 2018</li>
+    
+    <li>Data Science from Scratch: First Principles with Python (2nd Edition);  Joel Grus; O'Reilly Media; 2019</li>
+ 
 </ol>
 
 ### Tài liệu trực tuyến

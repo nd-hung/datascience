@@ -2,26 +2,16 @@
 
 ---
 
-## [Tổng quan](overview)
-- Sơ lược các phương pháp lập trình
-- Cách tiếp cận hướng đối tượng
+## [Tổng quan về Khoa học dữ liệu](topics/overview)
 
-## [Nền tảng .NET và ngôn ngữ C#](dotnet-and-csharp)
-- Nền tảng .NET
-- Ngôn ngữ C#
+## [Lập trình xử lý dữ liệu với Python](topics/PythonForDataScience)
 
-## [Lớp và đối tượng](classes-and-objects)
-- Cài đặt lớp
-- Đối tượng, thuộc tính và phương thức
+## [Thu thập và chuẩn bị dữ liệu](topics/DataCollectionAnPreparation)
 
-## [Thừa kế](inheritance)
-- Quan hệ tổng quát hóa, đặc biệt hóa
-- Cài đặt lớp thừa kế
+## [Phân tích khám phá dữ liệu](topics/DataExploratoryAnalysis)
 
-## [Đa hình](polymorphism)
-- Dẫn nhập
-- Cài đặt đa hình
+## [Trực quan hóa dữ liệu](topics/DataVisualzation)
 
-## [Xử lý file](filehandling)
-- Sơ lược về luồng (Streams)
-- Xử lý file trong C#
+## [Các mô hình phân tích dữ liệu cơ bản](topics/#)
+
+## [Ứng dụng học máy trong Khoa học dữ liệu](topics/#)
