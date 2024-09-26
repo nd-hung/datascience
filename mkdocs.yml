@@ -10,7 +10,7 @@ nav:
       - Tổng quan về khoa học dữ liệu: topics\overview\README.md
       - Lập trình xử lý dữ liệu với Python: topics\#
       - Thu thập và tiền xử lý dữ liệu: topics\#
-      - Phân tích khám phá dữ liệu: topics\#
+      - Phân tích khám phá dữ liệu: topics\DataExploratoryAnalysis
       - Các mô hình phân tích dữ liệu: topics\#
       - Ứng dụng học máy trong khoa học dữ liệu: topics\#
       - Các bài thực hành: labs\README.md

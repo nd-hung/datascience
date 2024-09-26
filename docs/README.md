@@ -25,9 +25,12 @@ Ngành Khoa học dữ liệu thực hiện xử lý, phân tích, khai phá d�
 ### Sách, giáo trình
 
 <ol>
-    <li>Introduction to Machine Learning with Python - A Guide for Data Scientists; Andreas C. Müller, Sarah Guido; O'Reilly Media; 2018</li>
-    
-    <li>Data Science from Scratch: First Principles with Python (2nd Edition);  Joel Grus; O'Reilly Media; 2019</li>
+    <li>
+        Introduction to Machine Learning with Python - A Guide for Data Scientists; Andreas C. Müller, Sarah Guido; O'Reilly Media; 2018
+    </li>
+    <li>
+        Data Science from Scratch: First Principles with Python (2nd Edition);  Joel Grus; O'Reilly Media; 2019
+    </li>
  
 </ol>
 

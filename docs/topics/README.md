@@ -4,9 +4,13 @@
 
 ## [Tổng quan về Khoa học dữ liệu](topics/overview)
 
+- Vai trò của dữ liệu trong thế giới số
+
 ## [Lập trình xử lý dữ liệu với Python](topics/PythonForDataScience)
 
 ## [Thu thập và chuẩn bị dữ liệu](topics/DataCollectionAnPreparation)
+
+fewrer
 
 ## [Phân tích khám phá dữ liệu](topics/DataExploratoryAnalysis)
 
