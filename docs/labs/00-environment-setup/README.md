@@ -1,21 +1,15 @@
-# Thiết lập môi trường lập trình C# #
+# Thiết lập môi trường lập trình
 
 ---
 
-## [Cài đặt Visual Studio](vs)
+## [Cài đặt Python](python)
 
-- Về Visual Studio
-- Cài đặt Visual Studio
-- Tạo ứng dụng C# với Visual Studio
+- Về Python
+- Cài đặt Anaconda
+- Python Notebook
 
 ## [Cài đặt Visual Studio Code](vscode) ##
 
 - Về VS Code
 - Cài đặt VS Code
-- Tạo ứng dụng C# với VS Code
-
-## [SplashKit](#)
-
-- Về SplashKit
-- Cài đặt
-- Tạo ứng dụng đồ họa với C# và SplashKit
+- Lập trình Python với VS Code
