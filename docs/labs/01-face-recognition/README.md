@@ -18,3 +18,6 @@
 - Xây dựng, triển khai ứng dụng
 
 ## Phân tích, đánh giá
+### Đánh giá kết quả
+### Cải tiến hiệu năng hệ thống
+
