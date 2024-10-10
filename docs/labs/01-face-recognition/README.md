@@ -31,3 +31,5 @@
 ### Cải tiến hiệu năng hệ thống
 
 ## Chấm điểm
+- Giải thích được các phương pháp, công cụ sử dụng.
+- Kết quả: độ chính xác (accuracy) trên tập test.
