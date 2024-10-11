@@ -9,6 +9,10 @@
 <img src="figs/example.PNG">
 
 ## Thu thập & chuẩn bị dữ liệu
+- Mỗi sv chụp 60 ảnh khuôn mặt:
+    - Ảnh màu, điều kiện ánh sáng ban ngày, định dạng JPG
+    - Chụp nhiều góc độ khác nhau của khuôn mặt
+    - Kích thước < 2 MB
 
 ## Khảo sát, trực quan dữ liệu
 
@@ -17,6 +21,7 @@
 ### Phương pháp tryền thống
 
 - So sánh
+    - Nearest Neighbor Classifier
 
 ### Machine Learning
 
@@ -29,7 +34,7 @@
 ### Đánh giá kết quả
 
 ### Cải tiến hiệu năng hệ thống
+- Dữ liệu
+- Cải tiến mô hình
+- Kỹ thuật huấn luyện
 
-## Chấm điểm
-- Giải thích được các phương pháp, công cụ sử dụng.
-- Kết quả: độ chính xác (accuracy) trên tập test.
