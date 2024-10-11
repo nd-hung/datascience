@@ -9,10 +9,11 @@
 <img src="figs/example.PNG">
 
 ## Thu thập & chuẩn bị dữ liệu
+
 - Mỗi sv chụp 60 ảnh khuôn mặt:
-    - Ảnh màu, điều kiện ánh sáng ban ngày, định dạng JPG
-    - Chụp nhiều góc độ khác nhau của khuôn mặt
-    - Kích thước < 2 MB
+  - Ảnh màu, điều kiện ánh sáng ban ngày, định dạng JPG
+  - Chụp nhiều góc độ khác nhau của khuôn mặt
+  - Kích thước < 2 MB
 
 ## Khảo sát, trực quan dữ liệu
 
@@ -20,10 +21,9 @@
 
 ### Phương pháp tryền thống
 
-- So sánh
-    - Nearest Neighbor Classifier
+Logistic regression, neural networks, decision tree, support vector machine, random forest, naive Bayes, k-nearest neighbor
 
-### Machine Learning
+### Convolutional Neural Network (CNN)
 
 - Xây dựng mô hình
 - Huấn luyện mô hình
@@ -33,8 +33,8 @@
 
 ### Đánh giá kết quả
 
-### Cải tiến hiệu năng hệ thống
-- Dữ liệu
-- Cải tiến mô hình
-- Kỹ thuật huấn luyện
+### Cải tiến kết quả
 
+- Dữ liệu
+- Mô hình
+- Kỹ thuật huấn luyện
