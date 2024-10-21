@@ -15,7 +15,22 @@
   - Chụp nhiều góc độ khác nhau của khuôn mặt
   - Kích thước < 2 MB
 
-## Khảo sát, trực quan dữ liệu
+## Phân tích khám phá dữ liệu (Exploratory Data Analysis - EDA)
+### Thống kê số lượng mẫu
+- Dữ liệu đủ số lượng?
+- Sự cân bằng dữ liệu giữa các lớp?
+
+number_classes = {'Class_0': len(os.listdir(healthy_dir)),
+'Class_1': len(os.listdir(blight_dir)),
+'Class_2': len(os.listdir(gray_dir)),
+'Class_3': len(os.listdir(rust_dir))}
+Next, plot a simple bar chart using keys and values for the axis.
+
+plt.bar(number_classes.keys(), number_classes.values(), width = .5);
+plt.title("Number of Images by Class");
+plt.xlabel('Class Name');
+plt.ylabel('# Images');
+
 
 ## Các cách tiếp cận giải quyết bài toán
 
